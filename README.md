@@ -7,3 +7,4 @@ This repository is created as part of the final project for the Git and GitHub c
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - simple-interest.sh
+  #coursera final project
